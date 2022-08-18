@@ -1,0 +1,15 @@
+14
+80C:\Users\NitroPC\Desktop\Lemoncode\BootcampJS\Modulo_8\Entrega\save\package.json133052654117722730 0
+90C:\Users\NitroPC\Desktop\Lemoncode\BootcampJS\Modulo_8\Entrega\save\dist\index.975ef6c8.js133052655823022944 0
+72C:\Users\NitroPC\Desktop\Lemoncode\BootcampJS\Modulo_8\Entrega\save\dist133052655823262815 1
+78C:\Users\NitroPC\Desktop\Lemoncode\BootcampJS\Modulo_8\Entrega\save\index.html133052650136721053 0
+90C:\Users\NitroPC\Desktop\Lemoncode\BootcampJS\Modulo_8\Entrega\save\src\client-business.js133052653295974525 0
+77C:\Users\NitroPC\Desktop\Lemoncode\BootcampJS\Modulo_8\Entrega\save\README.md133052579472109807 0
+88C:\Users\NitroPC\Desktop\Lemoncode\BootcampJS\Modulo_8\Entrega\save\src\data-business.js133052651916622522 0
+95C:\Users\NitroPC\Desktop\Lemoncode\BootcampJS\Modulo_8\Entrega\save\src\client-list-business.js133052652614314662 0
+71C:\Users\NitroPC\Desktop\Lemoncode\BootcampJS\Modulo_8\Entrega\save\src133052607000009279 1
+91C:\Users\NitroPC\Desktop\Lemoncode\BootcampJS\Modulo_8\Entrega\save\src\account-business.js133052593038143096 0
+80C:\Users\NitroPC\Desktop\Lemoncode\BootcampJS\Modulo_8\Entrega\save\src\index.js133052651267294027 0
+89C:\Users\NitroPC\Desktop\Lemoncode\BootcampJS\Modulo_8\Entrega\save\src\style-business.js133052650926871711 0
+94C:\Users\NitroPC\Desktop\Lemoncode\BootcampJS\Modulo_8\Entrega\save\dist\index.975ef6c8.js.map133052655823232822 0
+83C:\Users\NitroPC\Desktop\Lemoncode\BootcampJS\Modulo_8\Entrega\save\dist\index.html133052655823082847 0
